@@ -1,12 +1,14 @@
-# cpp-bmi
+# cpp-bmi-classes
 
 BMI (Body Mass Index) ou conhecido como IMC (Índice de Massa Corporal) é reconhecido como um padrão internacional para avaliar o grau de sobrepeso e obesidade.
-
-O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em metros).
 
 Estar no peso ideal é importante para aumentar a saúde, prevenindo doenças cardiovasculares e aumentar a qualidade de vida. 
 
 Assim, quem está abaixo do peso deve aumentar o volume muscular para aumentar de peso de forma saudável e quem está acima do peso, deve diminuir para ter uma qualidade de vida mais saudável.
+
+O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em metros). A partir do valor do IMC pode-se verificar uma classificação para a pessoa.
+
+Essa classificação pode ser consultada na [Tabela IMC: o que é, como calcular e tabela de resultados](https://www.tuasaude.com/imc/)
 
 ## Exemplos de valores
 
