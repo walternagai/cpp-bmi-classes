@@ -8,7 +8,7 @@ Assim, quem está abaixo do peso deve aumentar o volume muscular para aumentar d
 
 O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em metros). A partir do valor do IMC pode-se verificar uma classificação para a pessoa.
 
-Essa classificação pode ser consultada na [Tabela IMC: o que é, como calcular e tabela de resultados](https://www.tuasaude.com/imc/)
+Essa classificação pode ser consultada na [Tabela IMC: o que é, como calcular e tabela de resultados](https://www.tuasaude.com/imc/).
 
 ## Exemplos de valores
 
